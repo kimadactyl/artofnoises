@@ -7,10 +7,10 @@ Each player takes it in turn to select a card and perform the word on it. The ot
 
 ## Instructions
 
- 1. You will need 5 split pins and 13 sheet of thin cardboard, assuming you make no mistakes or misprints. You will also need an assortmant of toy instruments.
+ 1. You will need 5 split pins and 13 sheet of thin cardboard, assuming you make no mistakes or misprints. You will also need an assortment of toy instruments.
  2. Print each layer of cardsheet.svg on a seperate sheet of card, and cut out carefully.
  3. Print out 5 copies of the score dial, and attach front to back using a split pin.
- 4. Refer to RULES.md for how to play. THe open document version is for easy printing.
+ 4. Refer to RULES.md for how to play. The open document version is for easy printing.
 
 ## License
 
