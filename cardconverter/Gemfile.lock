@@ -1,0 +1,9 @@
+GEM
+  specs:
+    rmagick (2.13.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  rmagick
